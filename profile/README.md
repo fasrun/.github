@@ -2,7 +2,10 @@
 
 **Define the rules. Let agents execute within them.**
 
-Fasrun is an open-source control plane for AI coding agents.
+帆驭 (Fasrun) 是一套 Spec 驱动的面向软件交付团队的 AI Agent 控制平面与运行时基础设施。  
+它通过 Fasfile 将企业治理公理与安全约束代码化，为自主 Agent 提供确定性执行保障。
+
+Fasrun is an open-source control plane for AI coding agents.  
 It turns constraints into enforceable rules that run before any action is taken — so agents can modify code, run commands, and open pull requests without crossing the boundaries you set.
 
 ---
