@@ -37,4 +37,4 @@ See the [evidence](https://fasrun.dev/evidence) of how the project governs its o
 
 ## Questions
 
-[Open an issue](https://github.com/fasrun/fasrun/issues) · support@fasrun.dev · [@fasrun](https://x.com/fasrun)
+[Open an issue](https://github.com/fasrun/fasrun/issues) · support@fasrun.dev · [@yuanyang_ai](https://x.com/yuanyang_ai)
